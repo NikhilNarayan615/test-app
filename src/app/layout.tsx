@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "../styles/globals.css";
-import { FloatingNavDemo } from "./navbar/pages";
+import { FloatingNavDemo } from "./floating-nav";
 import Footer from "@/components/footer";
 
 
