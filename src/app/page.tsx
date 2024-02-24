@@ -1,5 +1,5 @@
 import Team from "@/components/ui/team";
-import { ImagesSliderDemo } from "./back/page";
+import { ImagesSliderDemo } from "./images-slider-demo";
 import Feature from "@/components/ui/feature";
 import Divisions from "@/components/ui/divisions";
 import Model from "@/components/ui/threedmodel";
